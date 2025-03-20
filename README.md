@@ -1,4 +1,4 @@
-Flipzone Ecommerce - Documentation
+# Flipzone Ecommerce - Documentation
 
 📌 Introduction
 
