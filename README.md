@@ -18,6 +18,7 @@ Shopping cart and checkout
 
 Order history and profile management
 
+
 **Backend (Spring Boot)**
 
 RESTful APIs for managing products, users, and orders
@@ -28,13 +29,14 @@ Role-based access control (Admin/User)
 
 Database management using MySQL
 
+
 🏗 Architecture
 
-Technology Stack
+**Technology Stack**
 
-Frontend:HTML, CSS, JS, React.js,, Bootstrap
+Frontend: React.js, Redux, Bootstrap
 
-Backend: Spring Boot,Spring Boot REST, Spring Security
+Backend: Spring Boot,  Spring Boot REST, Spring Security
 
 Database: MySQL
 
