@@ -38,7 +38,7 @@ const Footer = () => {
           {/* Footer Info */}
           <Grid item xs={12} md={6}>
             <Typography variant="body2" align="right" color="inherit">
-              &copy; {new Date().getFullYear()} BD Online. All rights reserved.
+              &copy; {new Date().getFullYear()} Flipzone. All rights reserved.
             </Typography>
           </Grid>
         </Grid>
